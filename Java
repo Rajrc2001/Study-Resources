@@ -13,13 +13,14 @@ Key Features:
         Everything in Java is treated as an "Object." This helps keep code organized.
 
     Robust:
-        Java is strong because it manages memory for you. A Garbage Collector automatically cleans up unused memory so the programmer doesn't have to.
+        Java is Strong and reliable, because it manages memory automatically, catches errors early before running, and handles unexpected problems smoothly.
 
     Portable:
-        You can run Java code on any machine that has a JVM installed.
+        "Write once, run anywhere."
+        The same compiled code runs on any operating system (Windows, Mac, Linux) as long as it has Java installed.
 
     Architecture Neutral:
-        Java follows the rule: "Write once, run anywhere." It works the same way even if you upgrade your computer hardware.
+        Java compiles code into universal bytecode rather than machine code for a specific processor chip.
 
     Distributed:
         Java is built for the internet. It can handle networking (TCP/IP) easily, allowing different computers to work together.
